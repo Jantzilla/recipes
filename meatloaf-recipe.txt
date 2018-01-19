@@ -1,0 +1,7 @@
+add meat
+
+mix meat
+
+cook meat
+
+add ketchup
